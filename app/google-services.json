@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493789264033",
+    "project_id": "yemek-tarif-uygulamasi",
+    "storage_bucket": "yemek-tarif-uygulamasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493789264033:android:83e814a4ca123c3b0c58e0",
+        "android_client_info": {
+          "package_name": "com.example.projedenemetasar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493789264033-7g65mbdosv9ccj7pgq6vp9g8khpqs0po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDuWl2Nw3J_8IFD-77NFaQi_DHV3RMWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493789264033-7g65mbdosv9ccj7pgq6vp9g8khpqs0po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
