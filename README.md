@@ -1,3 +1,6 @@
-# yemek-tarif-uygulamasi  Video link
+# yemek-tarif-uygulamasi 
 
-https://www.youtube.com/watch?v=diUFpcFve28&ab_channel=%C3%96devler
+
+Firebase Authentication ve Firebase Firestore kullanılmıştır. 
+Storage kullanılarak görseller çekilmiştir.
+Uygulama Tanıtım Videosu = https://youtu.be/N5TALTGJQzE
